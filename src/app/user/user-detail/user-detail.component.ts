@@ -50,7 +50,7 @@ export class UserDetailComponent implements OnInit {
     this.breadcrumb.items.push(this.breadcrumbItem);
     this.breadcrumbItem = {
       label: this.literals.user,
-      link: '/authentication/user',
+      link: '/user',
     };
     this.breadcrumb.items.push(this.breadcrumbItem);
     this.breadcrumbItem = { label: this.literals.detail };

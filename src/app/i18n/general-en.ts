@@ -1,6 +1,9 @@
 export const generalEn = {
   active: 'Active',
+  addUser: 'Add User',
   and: 'and',
+  detail: 'Detail',
+  editUser: 'Edit User',
   email: 'E-mail',
   firstName: 'First Name',
   hello: 'Hello',
@@ -13,6 +16,8 @@ export const generalEn = {
   textLibrary: 'Angular-based component library.',
   textProject: 'An open source project that uses current technologies such as ',
   user: 'User',
+  userDetail: 'User Detail',
+  userList: 'User List',
   users: 'Users',
   viewGithub: 'View on Github',
   welcome: 'Welcome!',

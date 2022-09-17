@@ -4,7 +4,6 @@ import {
   PoI18nService,
   PoMenuComponent,
   PoMenuItem,
-  PoToolbarAction,
 } from '@po-ui/ng-components';
 import { AppService } from './app.service';
 
